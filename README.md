@@ -13,4 +13,5 @@ Collection of resources to learn RESTful API design
 - [RFC 3986 - Uniform Resource Identifier (URI): Generic Syntax](https://tools.ietf.org/html/rfc3986)
 
 ## Real world production RESTful APIs
-- [Stripe's RESTful API documention](https://stripe.com/docs/api)
+- [GitHub API v3](https://developer.github.com/v3/)
+- [Stripe's RESTful API](https://stripe.com/docs/api)
