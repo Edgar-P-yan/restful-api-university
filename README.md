@@ -10,6 +10,7 @@ Collection of resources to learn RESTful API design
 - [Wikipedia - Representational state transfer (REST)](https://en.wikipedia.org/wiki/Representational_state_transfer)
 - [Clean URLs](https://en.wikipedia.org/wiki/Clean_URL)
 - [Thoughts on RESTful API Design by Geert Jansen](https://restful-api-design.readthedocs.io/en/latest/)
+- [RFC 3986 - Uniform Resource Identifier (URI): Generic Syntax](https://tools.ietf.org/html/rfc3986)
 
 ## Real world production RESTful APIs
 - [Stripe's RESTful API documention](https://stripe.com/docs/api)
