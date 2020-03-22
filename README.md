@@ -1,6 +1,7 @@
 # RESTful API University
 
-Collection of resources to learn RESTful API design
+Collection of resources to learn RESTful API design.  
+Some of the links are taken from [aisuhua/restful-api-design-references](https://github.com/aisuhua/restful-api-design-references) and translated to english.
 
 ## Getting started
 1. [Best Practices for Designing a Pragmatic RESTful API](https://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api)
