@@ -12,6 +12,12 @@ Some of the links are taken from [aisuhua/restful-api-design-references](https:/
 1. [REST API Tutorial](https://www.restapitutorial.com/)
 1. [Microsoft REST API Guidelines](https://github.com/Microsoft/api-guidelines/blob/vNext/Guidelines.md)
 
+## More Knowledge
+1. [httpstatuses](https://httpstatuses.com/)
+1. [List of HTTP status codes](https://en.wikipedia.org/wiki/List_of_HTTP_status_codes) from Wikipedia
+1. [HTTP Status Codes](https://docs.microsoft.com/ru-ru/windows/win32/wininet/http-status-codes) from MSDN Microsoft
+1. [List of HTTP header fields](https://en.wikipedia.org/wiki/List_of_HTTP_header_fields)
+
 ## Learning resources
 1. [Google Cloud API Design Guide](https://cloud.google.com/apis/design) 
 1. [REST API Tutorial - RESTfulAPI.net](https://restfulapi.net/)  
