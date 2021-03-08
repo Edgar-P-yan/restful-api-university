@@ -31,3 +31,4 @@ Some of the links are taken from [aisuhua/restful-api-design-references](https:/
 ## Real world production RESTful APIs
 1. [GitHub API v3](https://developer.github.com/v3/)
 1. [Stripe's RESTful API](https://stripe.com/docs/api)
+1. [Amazon S3 REST API](https://docs.aws.amazon.com/AmazonS3/latest/API/API_Operations.html)
