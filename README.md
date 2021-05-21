@@ -7,7 +7,7 @@ Some of the links are taken from [aisuhua/restful-api-design-references](https:/
 
 ## Getting started
 1. [Best Practices for Designing a Pragmatic RESTful API](https://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api)
-1. [HTTP API Design Guide](https://github.com/interagent/http-api-design)
+1. [HTTP API Design Guide from Heroku](https://github.com/interagent/http-api-design)
 1. [Thoughts on RESTful API Design](https://restful-api-design.readthedocs.io/en/latest/)
 1. [REST API Tutorial](https://www.restapitutorial.com/)
 1. [Microsoft REST API Guidelines](https://github.com/Microsoft/api-guidelines/blob/vNext/Guidelines.md)
