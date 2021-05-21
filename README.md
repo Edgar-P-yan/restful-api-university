@@ -5,6 +5,8 @@ Some of the links are taken from [aisuhua/restful-api-design-references](https:/
 
 ![Image of Yaktocat](https://raw.githubusercontent.com/Edgar-P-yan/restful-api-university/master/restful-api-logo.png)
 
+Feel free to suggest new helpful links with pull request😊
+
 ## Getting started
 1. [Best Practices for Designing a Pragmatic RESTful API](https://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api)
 1. [HTTP API Design Guide from Heroku](https://github.com/interagent/http-api-design)
